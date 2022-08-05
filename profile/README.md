@@ -17,7 +17,7 @@ NHR3 addresses multidisciplinary topic areas of natural hazards including:
  * Volcanic eruptions & their impacts
  * Landslides
 
-## Participating Universities and Leadership
+## Participating Universities
 
 Currently the following research universities are members of the NHR3, as listed (alphabetically):
 
