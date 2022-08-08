@@ -21,6 +21,7 @@ NHR3 addresses multidisciplinary topic areas of natural hazards including:
 
 Currently the following research universities are members of the NHR3, as listed (alphabetically):
 
+ * California Polytechnic State University
  * California Institute of Technology
  * Southern California Earthquake Center
  * University of California, Irvine
